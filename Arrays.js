@@ -1,10 +1,10 @@
 // création de tableaux
 
 let arr1 = ['a','b','c'];
-let arr2 = [{'nom':'Abdelhadi','prénom':'Karim'},
-            {'nom':'John','prénom':'Wick'},
-            {'nom':'Lara','prénom':'Croft'},
-            {'nom':'Harry','prénom':'Potter'}
+let arr2 = [{nom:'Abdelhadi',prénom:'Karim'},
+            {nom:'John',prénom:'Wick'},
+            {nom:'Lara',prénom:'Croft'},
+            {nom:'Harry',prénom:'Potter'}
             ];
             
             
